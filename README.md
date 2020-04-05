@@ -1,16 +1,9 @@
-# flutter_image_picker
+# Flutter Image Picker
 
-A new Flutter application.
+Check out the blog part 1 [Here](https://medium.com/@theboringdeveloper/uploading-images-to-s3-flutter-part-1-92c52ce62432)
 
-## Getting Started
+Check out the blog part 2 [Here](https://medium.com/@theboringdeveloper/uploading-images-to-s3-flutter-part-2-6a6fb000ba7b)
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![End Result]( screenshots/Screenshot_1.gif "End Result")
