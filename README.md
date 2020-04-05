@@ -1,4 +1,4 @@
-# Flutter Image Picker
+# Flutter Image Picker and Upload image to AWS S3
 
 Check out the blog part 1 [Here](https://medium.com/@theboringdeveloper/uploading-images-to-s3-flutter-part-1-92c52ce62432)
 
